@@ -11,6 +11,8 @@ Cart::Cart()
 {
     // This is the contructor of Cart and We have to put code here
     // Third Line of comment
+    // This is the contructor of Cart
+    // and We have to put code here
 }
 
 void Cart::addProducttoCart(IProduct *product)
