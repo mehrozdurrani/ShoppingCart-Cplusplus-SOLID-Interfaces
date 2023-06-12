@@ -9,6 +9,7 @@ using namespace std;
 
 Cart::Cart()
 {
+    // This is the contructor of Cart
 }
 
 void Cart::addProducttoCart(IProduct *product)
