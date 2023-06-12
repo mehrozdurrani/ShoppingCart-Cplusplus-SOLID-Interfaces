@@ -2,6 +2,8 @@
 #ifndef ORDER_H
 #define ORDER_H
 
+// This code is for placing the order
+
 #include "ICart.h"
 #include "ICustomer.h"
 
