@@ -50,6 +50,9 @@ This project demonstrates the following SOLID principles:
 
 The contribution is viable, allowed to fork the project and use it.
 
+## Contact
+if you have any questions or suggestions, feel free to contact me at mehrozdurrani@gmail.com
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
